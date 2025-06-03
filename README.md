@@ -132,3 +132,7 @@ Precisamos de um serviço escalável, seguro e resiliente para processar pagamen
 
 ### 4. Arquitetura de Alto Nível
 
+🗺️ **Diagrama:** 
+![image](https://github.com/user-attachments/assets/0e8f0a6c-fe1f-4a9b-bd40-1268473bf520)
+
+
